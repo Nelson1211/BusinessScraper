@@ -22,7 +22,7 @@ pip3 install -r requirements.txt
 
 Download the chrome driver(https://chromedriver.chromium.org/downloads)
 
-Open whatsapp_bot.py and add the path to your chrome driver on line 22
+Open scrapeBusinesses.py and add the path to your chrome driver on line 20
 
 Run the script using the following command:
 
